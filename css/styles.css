@@ -55,7 +55,7 @@ h2{
     position: absolute;
     left: 75%;
     top: 40px;
-    display: inline;
+    float: right;
 }
 
 .TitleText{
