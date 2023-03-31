@@ -1,0 +1,143 @@
+body{
+    background-color: #CBE4DE;
+    color: #2C3333;;
+    margin: 0;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+hr{
+    border-color: #0E8388;
+    height: 0px;
+    border-style: dotted none none;
+    border-width: 15px;
+    width: 15%;
+    margin: 50px auto 50px auto;
+}
+
+h1{
+    color: #2C3333;
+    font-size: 90px;
+    line-height: 2;
+}
+
+h2{
+    color: #2C3333;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.TableLinks{
+    padding: 0 20px;   
+}
+
+.NavLinks{
+    text-decoration: none;
+    font-size: 24px;
+    color: #2C3333;
+}
+
+.NavLinks:hover{
+    text-decoration: none;
+    font-size: 24px;
+    color: #1b2525;
+}
+
+.TopSection{
+    background-color: #0E8388;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+.NavLinksTable{
+    position: absolute;
+    left: 75%;
+    top: 40px;
+    display: inline;
+}
+
+.TitleText{
+    margin: 0;
+}
+
+.ShrimpTop{
+    height: 100px;
+}
+
+.CoralImage{
+    height: 400px;
+}
+
+.profile{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.AboutMe{
+    font-size: 20px;
+    line-height: 2;
+}
+
+.ShrimpImage{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.FishImage{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: #0E8388;
+    width: 100%;
+    padding: 40px 0;
+    margin-top: 20px;
+}
+
+.EndName{
+    margin: 5px;
+}
+
+.footer-link{
+    margin: 5px 20px;
+    font-size: 24px;
+    color: #2C3333;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    margin: 5px 20px;
+    font-size: 24px;
+    color: #a7dfdf;
+    text-decoration: none;
+}
+
+.btn{
+    background-color: #0E8388;
+    padding: 5px;
+    border-radius: 5px;
+    color: #CBE4DE;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #0b6366;
+    padding: 5px;
+    border-radius: 5px;
+    color: #CBE4DE;
+    font-size: 24px;
+    text-decoration: none;
+}
