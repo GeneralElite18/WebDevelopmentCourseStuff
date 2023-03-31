@@ -34,13 +34,13 @@ h2{
 .NavLinks{
     text-decoration: none;
     font-size: 24px;
-    color: #2C3333;
+    color: #0E8388;
 }
 
 .NavLinks:hover{
     text-decoration: none;
     font-size: 24px;
-    color: #1b2525;
+    color: #0b6366;
 }
 
 .TopSection{
@@ -62,7 +62,7 @@ h2{
     margin: 0;
 }
 
-.ShrimpTop{
+.CrabTop{
     height: 100px;
 }
 
