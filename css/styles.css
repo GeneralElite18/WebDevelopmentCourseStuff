@@ -27,6 +27,10 @@ h2{
     font-weight: normal;
 }
 
+.center{
+    margin: 0 auto;
+}
+
 .TableLinks{
     padding: 0 20px;   
 }
@@ -53,19 +57,27 @@ h2{
 
 .NavLinksTable{
     position: absolute;
-    top: 35px;
-    left: 35px;
+    top: 50px;
+    left: 65px;
 }
 
 .TitleText{
     margin: 0;
 }
 
-.CrabTop{
+.TopBar{
     height: 100px;
+    margin: 20px 0;
 }
 
-.CoralImage{
+.CrabTop{
+    width: 100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.MainImage{
     height: 400px;
 }
 
