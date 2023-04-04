@@ -57,7 +57,7 @@ h2{
 
 .NavLinksTable{
     position: absolute;
-    top: 50px;
+    top: 20px;
     left: 65px;
 }
 
@@ -66,12 +66,12 @@ h2{
 }
 
 .TopBar{
-    height: 100px;
-    margin: 20px 0;
+    height: 50px;
+    margin: 10px 0;
 }
 
 .CrabTop{
-    width: 100px;
+    width: 50px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -151,4 +151,8 @@ h2{
     color: #CBE4DE;
     font-size: 24px;
     text-decoration: none;
+}
+
+.Me{
+    height: 500px;
 }
